@@ -12,5 +12,10 @@ public class VotreBanqueApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+/*
+*
+*ADAMA DIOP
+fghjkl
+/*
 
 }
