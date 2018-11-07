@@ -16,7 +16,7 @@ import javax.persistence.OneToMany;
 
 //ada
 //ada
-//ada git checkout master
+//ada git 
 @Entity
 @Inheritance(strategy=InheritanceType.SINGLE_TABLE)
 @DiscriminatorColumn(name="TYPE_CPTE",discriminatorType=DiscriminatorType.STRING,length=2 )
