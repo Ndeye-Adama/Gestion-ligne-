@@ -3,7 +3,9 @@ package org.sid.metier;
 import org.sid.entities.Compte;
 import org.sid.entities.Operation;
 import org.springframework.data.domain.Page;
-
+//ada
+//ada
+//ada
 public interface IBanqueMetier {
 
 	public Compte consulterCompte(String codeCpte);
