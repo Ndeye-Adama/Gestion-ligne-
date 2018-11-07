@@ -11,8 +11,6 @@ import javax.persistence.OneToMany;
 //ada
 //ada
 //ada//ada
-//ada
-//ada
 @Entity
 public class Client implements Serializable{
 
