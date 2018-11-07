@@ -8,9 +8,22 @@ import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.OneToMany;
+<<<<<<< HEAD
 //ada
 //ada
 //ada//ada
+=======
+
+/*
+*habi
+*
+*
+*habi
+*
+*/
+//adama
+//adama
+>>>>>>> master
 @Entity
 public class Client implements Serializable{
 
