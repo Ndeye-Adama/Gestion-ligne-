@@ -27,8 +27,8 @@ public abstract class Compte implements Serializable{
 	
 	@ManyToOne
 	@JoinColumn(name="CODE_CLI")
-	private Client client;
-	
+	private Client client
+	/salut
 	@OneToMany(mappedBy="compte")
 	private Collection<Operation> operations;
 
